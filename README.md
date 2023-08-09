@@ -16,7 +16,7 @@ I love working on the frontend because it allows me to combine my creativity wit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkthales)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=linkthales&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=linkthales&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=linkthales&theme=omni&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=linkthales&theme=omni&hide_border=false"  width="400px" />
 
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=linkthales&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
